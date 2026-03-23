@@ -1,6 +1,6 @@
 ---
 caparoc1:
-  type: "CAPAROC"
+  type: "caparoc"
 
   environment:
     SYS: "XF:31ID1-ES"
